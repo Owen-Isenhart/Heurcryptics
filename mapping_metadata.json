@@ -1,0 +1,29 @@
+{
+  "files": {
+    "js.txt": 4632,
+    "rust.txt": 18479,
+    "gov.txt": 55092,
+    "jpg2.jpg": 555181,
+    "ls": 142312,
+    "img.enc": 88192,
+    "vid.mp4": 1570024,
+    "py.txt": 18589,
+    "asm.txt": 34618,
+    "jpg1.jpg": 88167,
+    "cat": 39384,
+    "nonenglish.txt": 347292,
+    "grep": 186824,
+    "frankenstein.txt": 422494,
+    "c.txt": 30184,
+    "cat.enc": 39408,
+    "prideandprejudice.txt": 738840,
+    "rustc": 6892248,
+    "mobydick.txt": 1235313,
+    "audio.mp3": 733645,
+    "png1.png": 265140,
+    "go.txt": 35370,
+    "text.enc": 422512,
+    "png2.png": 40692,
+    "rust.enc": 18496
+  }
+}
